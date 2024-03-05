@@ -23,3 +23,10 @@ Class TestHomeView(unittest.TestCase):
     """ Cleaning Up """
     print("Done Unittesting and cleaning afterwards")
 ```
+
+## Time to make a list 
+- [x] Added Header Sizes
+- [x] Added Image
+- [x] Added Code
+- [x] Added Check List
+- [ ] Who knows what's next 🤔🎶
